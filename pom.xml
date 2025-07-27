@@ -29,6 +29,7 @@
     <version>4.34.0</version>
 </dependency>
 
+<<<<<<< HEAD
 <!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -36,6 +37,8 @@
     <version>1.6.2</version>
 </dependency>
 
+=======
+>>>>>>> a703673d2988bb864015ea59d3807e79d8b17d11
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
